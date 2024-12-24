@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey</title>
+</head>
+<body>
+    <img src="age_%.jpg" alt="age">
+    <header>
+        <h1>relationship between students and teacher</h1>
+        <p>A Survey on relationship between students and teacher </p>
+    </header>
+    <nav>
+        <p>
+            <a href="index.html">About</a> | 
+            <a href="survey.html">Survey</a> | 
+            <a href="results.html">Results</a> | 
+            <a href="team members.html">Team details</a>
+        </p>
+    </nav>
+    <h2>Demographics Analysis</h2>
+    <ul>
+        <li>
+            <h3>Age Distribution</h3>
+            <p>The majority of respondents fall within the 18 to 20 age group, indicating that majority of the students are degree. Here’s a pie chart that visualizes the frequency of respondents in each age group.</p>
+            <img src="C:\Users\ADMIN\Downloads\WhatsApp Image 2024-12-19 at 22.11.21.jpeg"Age Distribution">
+
+        </li>
+           </ul>
+    <h2>bonds</h2>
+    <ul>
+        <li>
+            <h3>bond betweeen students and teachers</h3>
+            <p>Approximately 10 out 14 of respondents belive in building bond with their teachers.
+</p>
+ <img src="C:\Users\ADMIN\Downloads\WhatsApp Image 2024-12-19 at 22.11.21 (1).jpeg"bonds">
+
+
+                  </li>
+        <li>
+            <h3>Approach to teachers</h3>
+            <p>71.4% of students think that teachers are approachable. here is an pie chart that visualizes the responses.</p>
+            <img src="C:\Users\ADMIN\Downloads\WhatsApp Image 2024-12-19 at 23.00.05.jpeg" alt="">
+        </li>
+    </ul>
+    <h2>effective communication</h2>
+    <ul>
+        <li>
+            <h3>Communication</h3>
+            <p>92.9% responses were how well they understand their teachers here is an pie chart to understand the responses.</p>
+            <img src="C:\Users\ADMIN\Downloads\WhatsApp Image 2024-12-19 at 23.00.04.jpeg" alt="">
+        </li>
+        <li>
+            <h3>Encouragement</h3>
+            <p> Students expressed diverse opinions on the question posed, as illustrated in the accompanying bar graph. 
+             <img src="C:\Users\ADMIN\Downloads\WhatsApp Image 2024-12-19 at 23.00.24 (2).jpeg" alt="">
+
+            </p>
+        </li>
+    </ul>
+</body>
+</html>
+
+
+
+
