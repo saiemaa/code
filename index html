@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A website <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A website exploring relationship between students and teachers.">
+    <title>Relationships between students and teachers</title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center; text-decoration: underline; color: pink;">Relationship between students and teachers</h1>
+        <p style="text-align: center; font-style: italic;">A Survey of opinions of students about teachers</p>
+    </header>
+    <nav style="text-align: center; margin: 20px 0;">
+        <a href="#about" style="margin: 0 15px;">About</a>
+        <a href="survey.html" style="margin: 0 15px;">Survey</a>
+        <a href="results.html" style="margin: 0 15px;">Results</a>
+        <a href="team members.html" style="margin: 0 15px;">Team Details</a>
+    </nav>
+    <div class="container" style="margin: 20px;">
+        <section id="about">
+            <h2 style="color: darkgreen;">About</h2>
+            <p style="line-height: 1.6; text-align: justify;">
+                The student-teacher relationship is a cornerstone of the educational experience, profoundly influencing both academic success and personal development. A healthy relationship between students and teachers is built on mutual respect, trust, and open communication. Teachers serve not only as educators but also as mentors who inspire, guide, and support their students in achieving their potential. For students, feeling understood and valued creates an environment where they are more likely to engage in learning and take intellectual risks. Teachers, in turn, benefit from understanding their students’ unique needs and perspectives, allowing them to tailor their teaching methods effectively. Maintaining professional boundaries is essential to ensure the relationship remains ethical and focused on growth. A positive and inclusive connection fosters confidence, curiosity, and resilience in students, leaving a lasting impact that extends far beyond the classroom. Ultimately, the student-teacher relationship is a partnership rooted in collaboration and a shared commitment to growth and learning.           
+</p>
+            <p style="line-height: 1.6; text-align: justify;">
+                Our project, "student-teacher relationship," takes a closer look at the understanding between students and teacher and what are the views and relationship of a student and a teacher.            
+ </p>
+        </section>
+    </div>
+</body>
+</html>
+    <title>Relationships between students and teachers</title>
+</head>
+<body>
+    <nav style="text-align: center; margin: 20px 0;">
+           <div class="container" style="margin: 20px;">
+        <section id="about">
+                    </section>
+    </div>
+</body>
+</html>
+
