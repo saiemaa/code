@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey</title>
+</head>
+<body>
+    <header>
+        <h1>Relationship between students and teachers</h1>
+        <p>A Survey on Relationship between students and teachers </p>
+    </header>
+       <h3>Demographics</h3>
+    <ul>
+        <li>What is your age?</li>
+        <li>Do you belive in building a strong bond between teachers and students?</li>
+        <li>why do you think effective communication is important for students and teachers?</li>
+        <li>how approachable are your teachers?</li>
+    </ul>
+    <h3>understanding</h3>
+    <ul>
+        <li>do you think teachers make learning fun?</li>
+        <li>are you doing your part in being interactive with teachers?</li>
+        <li>how would you describe the quality of your relationship with your teachers?</li>
+    </ul>
+    <h3>Comfortabilty</h3>
+    <ul>
+        <li>do you feel comfortable sharing personal matters with your teachers or things that arent academic realted?</li>
+        <li>Do you use any music-related apps or gadgets (e.g., Shazam, headphones, speakers)?</li>
+        <li>imagine you got yelled at by your teachers and it was 100% your fault. will you recieve it in a positive way because it is for your own good         ?</li>
+    </ul>
+    <h3>opinions about the faculty</h3>
+    <ul>
+        <li>mention your FCA LAB faculty's name and add your thoughts on it.</li>
+        <li>mention your PIC LAB faculty's name and add your thoughts on it.</li>
+        <li>mention your FCA faculty's name and add your thoughts on it.</li>
+        <li>mention your PIC faculty's name and add your thoughts on it.</li>
+        <li>mention your HINDI faculty's name and add your thoughts on it.</li>
+        <li>mention your English faculty's name and add your thoughts on it.</li>
+    </ul>
+    <h3>genral opinion</h3>
+    <ul>
+        <li>when you think of teachers in general,what is the first thing thar comes to your mind?</li>
+        <li>teachers exist to raise a better generation for the future. Express your thoughts on this.</li>
+        <li>in one word declare how can students and teachers improve their bonding</li>
+    </ul>
+    <h3>opinions based on rating</h3>
+    <ul>
+        <li>how well do your teachers communicate class expectations and instructions?</li>
+        <li>how well do your teachers encourage a positive classroom environment?</li>
+    </ul>
+    </body>
+</html>
